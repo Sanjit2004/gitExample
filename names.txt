@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,ssaji2,Saji,Sanjit
 employee,aashah26,Shah,Aryan
